@@ -1,6 +1,7 @@
 package com.gildedrose
 
 import com.gildedrose.ItemAtributes.{ItemName, ItemQuality, ItemSellIn}
+import com.gildedrose.models.{AgedBrie, BackstagePasses, Conjured, StandardItem, Sulfuras}
 
 object ItemFactory {
 

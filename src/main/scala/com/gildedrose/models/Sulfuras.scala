@@ -1,5 +1,6 @@
-package com.gildedrose
+package com.gildedrose.models
 
+import com.gildedrose.Item
 import com.gildedrose.ItemAtributes.ItemQuality.modifyFunc
 import com.gildedrose.ItemAtributes.{ItemName, ItemQuality, ItemSellIn}
 
